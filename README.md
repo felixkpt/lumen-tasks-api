@@ -11,9 +11,9 @@ This is a simple RESTful API built using Lumen for managing tasks. The API suppo
 - Retrieve a specific task
 - Update tasks
 - Delete tasks
-- Filter tasks by status and due date (bonus feature)
-- Search tasks by title (bonus feature)
-- Pagination for task listing (bonus feature)
+- Filter tasks by status and due date
+- Search tasks by title
+- Pagination for task listing
 
 ## Requirements
 
