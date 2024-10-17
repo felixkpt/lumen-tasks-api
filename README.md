@@ -17,7 +17,7 @@ This is a simple RESTful API built using Lumen for managing tasks. The API suppo
 
 ## Requirements
 
-- PHP >= 7.3
+- PHP >= 8.0
 - Composer
 - PostgreSQL
 
@@ -28,3 +28,4 @@ This is a simple RESTful API built using Lumen for managing tasks. The API suppo
 ```bash
 git clone git@github.com:felixkpt/lumen-tasks-api.git
 cd lumen-tasks-api
+composer install
